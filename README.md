@@ -52,7 +52,7 @@ cd clage-srv
 
 ## 🌍 Live Demo
 
-[➡️ View the deployed live website:](https://mostafa‑eskander.github.io/clage‑srv/)
+[➡️ View the deployed live website:](https://mostafa-eskander.github.io/clage-srv/)
 
 ---
 
